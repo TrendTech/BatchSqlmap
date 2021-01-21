@@ -1,0 +1,1 @@
+start inject with file : D:\文档\PycharmProjects\BatchSqlmap\CP_Post_File\test 

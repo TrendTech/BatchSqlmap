@@ -1,0 +1,15 @@
+POST /web/getBettingRecordPage HTTP/1.1
+Host: uat2cpm102.bwt18.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Referer: http://uat2cpm102.bwt18.com/mmcLog
+content-type: application/json
+origin: http://uat2cpm102.bwt18.com
+Content-Length: 91
+Cookie: LoginSession=d2b8da5a90b6bd3105e9de60a5ff672c2225760d; _ga=GA1.2.2040662522.1523845756;route=2972655fcc95bed3286e3a903d318699; _gid=GA1.2.496133287.1523951837
+Connection: close
+Pragma: no-cache
+Cache-Control: no-cache
+
+{"bonusStatue":"*","currentPage":"*","pageSize":"*","lotteryId":"*","bettingCode":"","date":"*"}

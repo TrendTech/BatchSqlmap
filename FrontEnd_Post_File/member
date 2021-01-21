@@ -1,0 +1,13 @@
+POST /member/member HTTP/1.1
+Host: uat2gpom119.bwt18.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:59.0) Gecko/20100101 Firefox/59.0
+Accept: application/json, text/javascript, */*; q=0.01
+Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+Referer: http://uat2gpom119.bwt18.com/jsp/member/lottery/lotteryList.jsp
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 59
+Cookie: login_alert=false; _ga=GA1.2.2040662522.1523845756; JSESSIONID=CDA1E5E5F6339AC1AC60C83E3B56E751; route=b51c885097ff54574f8c4c6fdfe5bc23; website_ad=true
+Connection: close
+
+account=*&password=*&type=*&rmNum=
